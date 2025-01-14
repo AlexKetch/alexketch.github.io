@@ -1,0 +1,42 @@
+.nav-link {
+    color: rgb(52, 47, 47);
+}
+
+.navbar-nav .nav-link.active {
+    color: rgba(0, 0, 0, 0.744);
+}
+
+.navbar-brand img {
+    width: 90px;
+}
+
+.navbar-toggler {
+    background-color: aquamarine;
+}
+
+.row {
+    padding: 15px;
+}
+
+.card {
+    height: 120px;
+    background-color: rgb(247, 254, 30);
+}
+
+
+
+
+
+
+
+
+
+.footer-text {
+    color: aquamarine;
+    margin: auto auto;
+}
+
+footer,
+.btn-outline-primary {
+    background: #156c13;
+}
